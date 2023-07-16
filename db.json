@@ -11,6 +11,12 @@
       "nom": "product 2",
       "prix_unitaire": 700,
       "quantite": 600
+    },
+    {
+      "nom": "product",
+      "prix_unitaire": "123",
+      "quantite": "56",
+      "id": 3
     }
   ]
 }
