@@ -3,8 +3,8 @@
     {
       "id": 1,
       "nom": "product 1",
-      "prix_unitaire": 500,
-      "quantite": 230
+      "prix_unitaire": "400",
+      "quantite": "23"
     },
     {
       "id": 2,
@@ -12,6 +12,5 @@
       "prix_unitaire": 700,
       "quantite": 600
     }
-    
   ]
 }
