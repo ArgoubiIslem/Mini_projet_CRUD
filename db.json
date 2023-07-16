@@ -1,0 +1,17 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "nom": "product 1",
+      "prix_unitaire": 500,
+      "quantite": 230
+    },
+    {
+      "id": 2,
+      "nom": "product 2",
+      "prix_unitaire": 700,
+      "quantite": 600
+    }
+    
+  ]
+}
